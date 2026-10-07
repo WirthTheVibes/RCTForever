@@ -14,9 +14,10 @@ RCTForever requires the original files of RollerCoaster Tycoon 2 to play. It can
 I'll detail the install process once you have those files, but yea the addon releases will contain no copyrighted content.
 
 # Attributions
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/94b497eb-8cd4-4676-ad1b-f4702acccd6c" />
-
 ## The OpenRCT2 project
+<p align="center">
+    <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/94b497eb-8cd4-4676-ad1b-f4702acccd6c" />
+</p>
 Please go check out the [original project](https://github.com/OpenRCT2/OpenRCT2) and support the team by checking out the real client.
 
 ## Anthropic
