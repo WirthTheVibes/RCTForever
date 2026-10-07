@@ -19,10 +19,12 @@ I'll detail the install process once you have those files, but yea the addon rel
     <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/94b497eb-8cd4-4676-ad1b-f4702acccd6c" />
 </p>
 Please go check out the original project and support the team by checking out the real client.
+
 https://github.com/OpenRCT2/OpenRCT2
 
 ## Anthropic
 I'm VERY sure 100% of this code is **NOT** written by me. Good on you Anthropic for powering such a cool engine. Sorry for wasting all the water.
+
 https://www.anthropic.com/
 
 # License
