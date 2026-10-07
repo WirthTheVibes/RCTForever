@@ -18,10 +18,12 @@ I'll detail the install process once you have those files, but yea the addon rel
 <p align="center">
     <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/94b497eb-8cd4-4676-ad1b-f4702acccd6c" />
 </p>
-Please go check out the [original project](https://github.com/OpenRCT2/OpenRCT2) and support the team by checking out the real client.
+Please go check out the original project and support the team by checking out the real client.
+https://github.com/OpenRCT2/OpenRCT2
 
 ## Anthropic
 I'm VERY sure 100% of this code is **NOT** written by me. Good on you Anthropic for powering such a cool engine. Sorry for wasting all the water.
+https://www.anthropic.com/
 
 # License
 RCTForever is licensed under the GNU General Public License version 3 or (at your option) any later version. See the [licence.txt](https://github.com/WirthTheVibes/RCTForever/blob/main/license.txt) file for more details.
