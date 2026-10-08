@@ -13,6 +13,16 @@ RCTForever requires the original files of RollerCoaster Tycoon 2 to play. It can
 
 I'll detail the install process once you have those files, but yea the addon releases will contain no copyrighted content.
 
+# Additional WoW Features
+
+## WoW character peep names
+
+As you progress within World of Warcraft, the addon will log the players you interact with - being a click, party, raid, or your guildies. These names will be chosen randomly as you build out your RCT park for peeps and staff, with guild members automatically being tracked in game for ticker notifications.
+
+## Ticker notifications in chat
+
+Important messages can be selected to be reported within Guild, Raid, Instance, and Party chats. Wanna announce to your guild that you have won the **Untidiest Park award**? You sure fuckin can.
+
 # Attributions
 ## The OpenRCT2 project
 <p align="center">
