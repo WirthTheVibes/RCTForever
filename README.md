@@ -23,6 +23,12 @@ As you progress within World of Warcraft, the addon will log the players you int
 
 Important messages can be selected to be reported within Guild, Raid, Instance, and Party chats. Wanna announce to your guild that you have won the **Untidiest Park award**? You sure fuckin can.
 
+## Warcraft faces
+
+<img width="357" height="357" alt="WowB_lfOTHv1NZ5" src="https://github.com/user-attachments/assets/1e4d2486-18b3-4b96-be99-fa2af3516a18" />
+
+Some familiar faces for your park :).
+
 # Attributions
 ## The OpenRCT2 project
 <p align="center">
