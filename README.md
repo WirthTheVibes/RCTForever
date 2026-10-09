@@ -29,6 +29,12 @@ Important messages can be selected to be reported within Guild, Raid, Instance, 
 
 Some familiar faces for your park :).
 
+## Death whispers
+
+<img width="471" height="79" alt="image" src="https://github.com/user-attachments/assets/4ce7c644-c282-40f4-8b14-cdbbf2bf479d" />
+
+If enabled, you can whisper the players that your park ~accidentally~ killed.
+
 # Attributions
 ## The OpenRCT2 project
 <p align="center">
