@@ -45,7 +45,8 @@ https://www.anthropic.com/
 
 ## Stinky Longwind from Forever Beta
 <img width="425" height="117" alt="image" src="https://github.com/user-attachments/assets/02b966ea-f46f-4c0d-978c-2bb6b64f1de4" />
-You are remembered I guess.
+
+You are remembered.
 
 # License
 RCTForever is licensed under the GNU General Public License version 3 or (at your option) any later version. See the [licence.txt](https://github.com/WirthTheVibes/RCTForever/blob/main/license.txt) file for more details.
